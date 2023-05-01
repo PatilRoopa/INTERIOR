@@ -49,21 +49,29 @@ h1{
     text-align: left;
 }
 .jumbotron h1 {
-    margin: 80px 0 50px;
+    margin: 80px 0 50px 10px;
     font-weight: 600;
     font-size: 50px;
     color: #6900d1;
 }
 
 .carousel-item img{
-    margin: 100px 0;
+    margin: 10px ;
 }
 .carousel-item{
     text-align: center;
     height: 1000px;
 }
+.carousel h5{
+    margin: 80px 0 50px;
+    font-weight: 600;
+    font-size: 50px;
+    color: #6900d1;
+}
+
  .card {
-    text-align: center;
+    text-align: left;
+    margin-left: 0px;
  }
 
 
